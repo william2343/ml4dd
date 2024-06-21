@@ -313,7 +313,7 @@ results = benchmark.evaluate(y_pred=test_pred, y_prob=test_prob)
 results.name = "KinaseSelectivityTeam1"
 # results.description = "MACCS, ESM with single position and simple MLP"
 results.description = "Mol2Vec, ESM with single position and simple MLP"
-results.github_url = "https://github.com/polaris-hub/polaris"
+results.github_url = "https://github.com/william2343/ml4dd/edit/main/ml4dd_team1.py"
 results.paper_url = "https://docs.google.com/document/d/1fQDLgrngs0v5iFbJ8CPW3c4G-y1WXogUn8nfpC1a968/edit?usp=sharing"
 results.contributors = ["cynthia-habo", "whong", "hackefleisch", "natyyffo"]
 results
